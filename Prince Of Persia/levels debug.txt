@@ -1,0 +1,3114 @@
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 1
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 15
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 15
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 15
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 15
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 15
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 15
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 15
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 15
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 15
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 15
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 15
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 15
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 15
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 15
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 15
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 2
+before Kid.room: 5
+after Kid.room: 5
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 2
+before Kid.room: 5
+after Kid.room: 5
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 2
+before Kid.room: 5
+after Kid.room: 5
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 2
+before Kid.room: 5
+after Kid.room: 5
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 2
+before Kid.room: 5
+after Kid.room: 5
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 2
+before Kid.room: 5
+after Kid.room: 5
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 2
+before Kid.room: 5
+after Kid.room: 5
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 2
+before Kid.room: 5
+after Kid.room: 5
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 2
+before Kid.room: 5
+after Kid.room: 5
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 2
+before Kid.room: 5
+after Kid.room: 5
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 2
+before Kid.room: 5
+after Kid.room: 5
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 3
+before Kid.room: 9
+after Kid.room: 9
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 3
+before Kid.room: 9
+after Kid.room: 9
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 3
+before Kid.room: 9
+after Kid.room: 9
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 3
+before Kid.room: 9
+after Kid.room: 9
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 3
+before Kid.room: 9
+after Kid.room: 9
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 3
+before Kid.room: 9
+after Kid.room: 9
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 3
+before Kid.room: 9
+after Kid.room: 9
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 3
+before Kid.room: 9
+after Kid.room: 9
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 3
+before Kid.room: 9
+after Kid.room: 9
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 3
+before Kid.room: 9
+after Kid.room: 9
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 3
+before Kid.room: 9
+after Kid.room: 9
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 3
+before Kid.room: 9
+after Kid.room: 9
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 3
+before Kid.room: 9
+after Kid.room: 9
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 3
+before Kid.room: 9
+after Kid.room: 9
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 4
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 4
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 4
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 4
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 4
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 4
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 4
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 4
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 4
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 4
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 4
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 4
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 5
+before Kid.room: 7
+after Kid.room: 7
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 5
+before Kid.room: 7
+after Kid.room: 7
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 5
+before Kid.room: 7
+after Kid.room: 7
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 5
+before Kid.room: 7
+after Kid.room: 7
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 5
+before Kid.room: 7
+after Kid.room: 7
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 5
+before Kid.room: 7
+after Kid.room: 7
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 5
+before Kid.room: 7
+after Kid.room: 7
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 5
+before Kid.room: 7
+after Kid.room: 7
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 5
+before Kid.room: 7
+after Kid.room: 7
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 5
+before Kid.room: 7
+after Kid.room: 7
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 5
+before Kid.room: 7
+after Kid.room: 7
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 5
+before Kid.room: 7
+after Kid.room: 7
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 5
+before Kid.room: 7
+after Kid.room: 7
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 5
+before Kid.room: 7
+after Kid.room: 7
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 6
+before Kid.room: 24
+after Kid.room: 24
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 6
+before Kid.room: 24
+after Kid.room: 24
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 6
+before Kid.room: 24
+after Kid.room: 24
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 6
+before Kid.room: 24
+after Kid.room: 24
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 6
+before Kid.room: 24
+after Kid.room: 24
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 6
+before Kid.room: 24
+after Kid.room: 24
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 6
+before Kid.room: 24
+after Kid.room: 24
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 6
+before Kid.room: 24
+after Kid.room: 24
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 6
+before Kid.room: 24
+after Kid.room: 24
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 7
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 7
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 7
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 7
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 7
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 7
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 7
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 7
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 7
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 7
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 8
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 8
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 8
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 8
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 8
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 8
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 8
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 8
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 9
+before Kid.room: 11
+after Kid.room: 11
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 9
+before Kid.room: 11
+after Kid.room: 11
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 9
+before Kid.room: 11
+after Kid.room: 11
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 9
+before Kid.room: 11
+after Kid.room: 11
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 9
+before Kid.room: 11
+after Kid.room: 11
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 9
+before Kid.room: 11
+after Kid.room: 11
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 10
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 10
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 10
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 10
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 10
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 10
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 10
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 10
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 10
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 10
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 11
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 11
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 11
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 11
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 11
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 11
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 11
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 11
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 11
+before Kid.room: 6
+after Kid.room: 6
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 12
+before Kid.room: 3
+after Kid.room: 23
+custom->tbl_seamless_exit[current_level]: 23
+Condition = 1
+
+
+Current Level: 13
+before Kid.room: 23
+after Kid.room: 23
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 13
+before Kid.room: 23
+after Kid.room: 23
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 13
+before Kid.room: 23
+after Kid.room: 23
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 13
+before Kid.room: 23
+after Kid.room: 23
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 13
+before Kid.room: 23
+after Kid.room: 23
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 13
+before Kid.room: 23
+after Kid.room: 23
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 13
+before Kid.room: 23
+after Kid.room: 23
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 13
+before Kid.room: 23
+after Kid.room: 23
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 13
+before Kid.room: 23
+after Kid.room: 23
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 13
+before Kid.room: 23
+after Kid.room: 23
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 13
+before Kid.room: 23
+after Kid.room: 23
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 13
+before Kid.room: 23
+after Kid.room: 23
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 13
+before Kid.room: 23
+after Kid.room: 23
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 13
+before Kid.room: 23
+after Kid.room: 23
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 13
+before Kid.room: 23
+after Kid.room: 23
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 4
+after Kid.room: 4
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 3
+after Kid.room: 3
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 2
+after Kid.room: 2
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+
+
+Current Level: 14
+before Kid.room: 1
+after Kid.room: 1
+custom->tbl_seamless_exit[current_level]: -1
+Condition = 0
+

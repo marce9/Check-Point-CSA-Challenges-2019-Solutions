@@ -1,0 +1,447 @@
+i = 4
+j = 1
+i mod j = 0
+j*3 + i mod 4 = 3
+i-j = 3
+block1[i-j] = 9
+
+
+i = 5
+j = 1
+i mod j = 0
+j*3 + i mod 4 = 4
+i-j = 4
+block1[i-j] = 13
+
+
+i = 6
+j = 1
+i mod j = 0
+j*3 + i mod 4 = 5
+i-j = 5
+block1[i-j] = -39
+
+
+i = 7
+j = 1
+i mod j = 0
+j*3 + i mod 4 = 6
+i-j = 6
+block1[i-j] = 126
+
+
+i = 8
+j = 2
+i mod j = 0
+j*3 + i mod 4 = 6
+i-j = 6
+block1[i-j] = 126
+
+
+i = 9
+j = 2
+i mod j = 1
+j*3 + i mod 4 = 7
+i-j = 7
+block1[i-j] = -123
+
+
+i = 10
+j = 2
+i mod j = 0
+j*3 + i mod 4 = 8
+i-j = 8
+block1[i-j] = -15
+
+
+i = 11
+j = 2
+i mod j = 1
+j*3 + i mod 4 = 9
+i-j = 9
+block1[i-j] = 98
+
+
+i = 12
+j = 3
+i mod j = 0
+j*3 + i mod 4 = 9
+i-j = 9
+block1[i-j] = 98
+
+
+i = 13
+j = 3
+i mod j = 1
+j*3 + i mod 4 = 10
+i-j = 10
+block1[i-j] = 37
+
+
+i = 14
+j = 3
+i mod j = 2
+j*3 + i mod 4 = 11
+i-j = 11
+block1[i-j] = 11
+
+
+i = 15
+j = 3
+i mod j = 0
+j*3 + i mod 4 = 12
+i-j = 12
+block1[i-j] = 50
+
+
+i = 16
+j = 4
+i mod j = 0
+j*3 + i mod 4 = 12
+i-j = 12
+block1[i-j] = 50
+
+
+i = 17
+j = 4
+i mod j = 1
+j*3 + i mod 4 = 13
+i-j = 13
+block1[i-j] = 52
+
+
+i = 18
+j = 4
+i mod j = 2
+j*3 + i mod 4 = 14
+i-j = 14
+block1[i-j] = 8
+
+
+i = 19
+j = 4
+i mod j = 3
+j*3 + i mod 4 = 15
+i-j = 15
+block1[i-j] = 18
+
+
+i = 20
+j = 5
+i mod j = 0
+j*3 + i mod 4 = 15
+i-j = 15
+block1[i-j] = 18
+
+
+i = 21
+j = 5
+i mod j = 1
+j*3 + i mod 4 = 16
+i-j = 16
+block1[i-j] = -26
+
+
+i = 22
+j = 5
+i mod j = 2
+j*3 + i mod 4 = 17
+i-j = 17
+block1[i-j] = 22
+
+
+i = 23
+j = 5
+i mod j = 3
+j*3 + i mod 4 = 18
+i-j = 18
+block1[i-j] = 122
+
+
+i = 24
+j = 6
+i mod j = 0
+j*3 + i mod 4 = 18
+i-j = 18
+block1[i-j] = 122
+
+
+i = 25
+j = 6
+i mod j = 1
+j*3 + i mod 4 = 19
+i-j = 19
+block1[i-j] = 125
+
+
+i = 26
+j = 6
+i mod j = 2
+j*3 + i mod 4 = 20
+i-j = 20
+block1[i-j] = -96
+
+
+i = 27
+j = 6
+i mod j = 3
+j*3 + i mod 4 = 21
+i-j = 21
+block1[i-j] = 86
+
+
+i = 28
+j = 7
+i mod j = 0
+j*3 + i mod 4 = 21
+i-j = 21
+block1[i-j] = 86
+
+
+i = 29
+j = 7
+i mod j = 1
+j*3 + i mod 4 = 22
+i-j = 22
+block1[i-j] = 8
+
+
+i = 30
+j = 7
+i mod j = 2
+j*3 + i mod 4 = 23
+i-j = 23
+block1[i-j] = -30
+
+
+i = 31
+j = 7
+i mod j = 3
+j*3 + i mod 4 = 24
+i-j = 24
+block1[i-j] = 17
+
+
+i = 32
+j = 8
+i mod j = 0
+j*3 + i mod 4 = 24
+i-j = 24
+block1[i-j] = 17
+
+
+i = 33
+j = 8
+i mod j = 1
+j*3 + i mod 4 = 25
+i-j = 25
+block1[i-j] = -21
+
+
+i = 34
+j = 8
+i mod j = 2
+j*3 + i mod 4 = 26
+i-j = 26
+block1[i-j] = -22
+
+
+i = 35
+j = 8
+i mod j = 3
+j*3 + i mod 4 = 27
+i-j = 27
+block1[i-j] = -102
+
+
+i = 36
+j = 9
+i mod j = 0
+j*3 + i mod 4 = 27
+i-j = 27
+block1[i-j] = -102
+
+
+i = 37
+j = 9
+i mod j = 1
+j*3 + i mod 4 = 28
+i-j = 28
+block1[i-j] = -18
+
+
+i = 38
+j = 9
+i mod j = 2
+j*3 + i mod 4 = 29
+i-j = 29
+block1[i-j] = -6
+
+
+i = 39
+j = 9
+i mod j = 3
+j*3 + i mod 4 = 30
+i-j = 30
+block1[i-j] = -46
+
+
+i = 40
+j = 10
+i mod j = 0
+j*3 + i mod 4 = 30
+i-j = 30
+block1[i-j] = -46
+
+
+i = 41
+j = 10
+i mod j = 1
+j*3 + i mod 4 = 31
+i-j = 31
+block1[i-j] = 123
+
+
+i = 42
+j = 10
+i mod j = 2
+j*3 + i mod 4 = 32
+i-j = 32
+block1[i-j] = -85
+
+
+i = 43
+j = 10
+i mod j = 3
+j*3 + i mod 4 = 33
+i-j = 33
+block1[i-j] = -78
+
+
+i = 44
+j = 11
+i mod j = 0
+j*3 + i mod 4 = 33
+i-j = 33
+block1[i-j] = -78
+
+
+i = 45
+j = 11
+i mod j = 1
+j*3 + i mod 4 = 34
+i-j = 34
+block1[i-j] = 43
+
+
+i = 46
+j = 11
+i mod j = 2
+j*3 + i mod 4 = 35
+i-j = 35
+block1[i-j] = 98
+
+
+i = 47
+j = 11
+i mod j = 3
+j*3 + i mod 4 = 36
+i-j = 36
+block1[i-j] = -19
+
+
+i = 48
+j = 12
+i mod j = 0
+j*3 + i mod 4 = 36
+i-j = 36
+block1[i-j] = -19
+
+
+i = 49
+j = 12
+i mod j = 1
+j*3 + i mod 4 = 37
+i-j = 37
+block1[i-j] = -120
+
+
+i = 50
+j = 12
+i mod j = 2
+j*3 + i mod 4 = 38
+i-j = 38
+block1[i-j] = 68
+
+
+i = 51
+j = 12
+i mod j = 3
+j*3 + i mod 4 = 39
+i-j = 39
+block1[i-j] = -72
+
+
+i = 52
+j = 13
+i mod j = 0
+j*3 + i mod 4 = 39
+i-j = 39
+block1[i-j] = -72
+
+
+i = 53
+j = 13
+i mod j = 1
+j*3 + i mod 4 = 40
+i-j = 40
+block1[i-j] = 17
+
+
+i = 54
+j = 13
+i mod j = 2
+j*3 + i mod 4 = 41
+i-j = 41
+block1[i-j] = 74
+
+
+i = 55
+j = 13
+i mod j = 3
+j*3 + i mod 4 = 42
+i-j = 42
+block1[i-j] = 113
+
+
+i = 56
+j = 14
+i mod j = 0
+j*3 + i mod 4 = 42
+i-j = 42
+block1[i-j] = 113
+
+
+i = 57
+j = 14
+i mod j = 1
+j*3 + i mod 4 = 43
+i-j = 43
+block1[i-j] = 74
+
+
+i = 58
+j = 14
+i mod j = 2
+j*3 + i mod 4 = 44
+i-j = 44
+block1[i-j] = -118
+
+
+i = 59
+j = 14
+i mod j = 3
+j*3 + i mod 4 = 45
+i-j = 45
+block1[i-j] = 0
+

@@ -1,0 +1,134 @@
+LABEL(climbstairs) // climb stairs
+act(actions_5_bumped),
+dx(-5), dy(-1), snd(SND_FOOTSTEP), frame_217_exit_stairs_1,
+frame_218_exit_stairs_2, frame_219_exit_stairs_3,
+dx(1), frame_220_exit_stairs_4,
+dx(-4), dy(-3), snd(SND_FOOTSTEP), frame_221_exit_stairs_5,
+dx(-4), dy(-2), frame_222_exit_stairs_6,
+dx(-2), dy(-3), frame_223_exit_stairs_7,
+dx(-3), dy(-8), snd(SND_LEVEL), snd(SND_FOOTSTEP), frame_224_exit_stairs_8,
+dx(-1), dy(-1), frame_225_exit_stairs_9,
+dx(-3), dy(-4), frame_226_exit_stairs_10,
+dx(-1), dy(-5), snd(SND_FOOTSTEP), frame_227_exit_stairs_11,
+dx(-2), dy(-1), frame_228_exit_stairs_12,
+frame_0,
+snd(SND_FOOTSTEP), frame_0, frame_0, frame_0, // these footsteps are only heard when the music is off
+snd(SND_FOOTSTEP), frame_0, frame_0, frame_0,
+snd(SND_FOOTSTEP), frame_0, frame_0, frame_0,
+snd(SND_FOOTSTEP), SEQ_END_LEVEL, /* ":loop" */ LABEL(climbstairs_loop) frame_0,
+jmp(climbstairs_loop), // goto ":loop"
+
+
+
+
+frame_217_exit_stairs_1 = 217,
+frame_218_exit_stairs_2 = 218,
+frame_219_exit_stairs_3 = 219,
+frame_220_exit_stairs_4 = 220,
+frame_221_exit_stairs_5 = 221,
+frame_222_exit_stairs_6 = 222,
+frame_223_exit_stairs_7 = 223,
+frame_224_exit_stairs_8 = 224,
+frame_225_exit_stairs_9 = 225,
+frame_226_exit_stairs_10 = 226,
+frame_227_exit_stairs_11 = 227,
+frame_228_exit_stairs_12 = 228,
+
+
+
+
+#include "common.h"
+
+#define SEQTBL_BASE 0x196E
+#define SEQTBL_0 (seqtbl - SEQTBL_BASE)
+
+// This expands a two-byte number into two comma-separated bytes, used for the JMP destinations
+#define DW(data_word) (data_word) & 0x00FF, (((data_word) & 0xFF00) >> 8)
+
+// Shorter notation for the sequence table instructions
+#define act(action) SEQ_ACTION, action
+#define jmp(dest) SEQ_JMP, DW(dest)
+#define jmp_if_feather(dest) SEQ_JMP_IF_FEATHER, DW(dest)
+#define dx(amount) SEQ_DX, (byte) amount
+#define dy(amount) SEQ_DY, (byte) amount
+#define snd(sound) SEQ_SOUND, sound
+#define set_fall(x, y) SEQ_SET_FALL, (byte) x, (byte) y
+
+// This splits the byte array into labeled "sections" that are packed tightly next to each other
+// However, it only seems to work correctly in the Debug configuration...
+//#define LABEL(label) }; const byte label##_eventual_ptr[] __attribute__ ((aligned(1))) = {
+#define LABEL(label) // disable
+//#define OFFSET(label) label - seqtbl + SEQTBL_BASE
+
+// Labels
+#define running             SEQTBL_BASE                                   // 0x196E
+
+#define climbstairs         4  + deadfall_loop      //SEQTBL_BASE + 1903  // 0x20DD
+#define climbstairs_loop    81 + climbstairs        //SEQTBL_BASE + 1984  // 0x212E
+
+
+
+
+case SDL_SCANCODE_L | WITH_SHIFT: // shift-l
+			if (current_level < custom->shift_L_allowed_until_level /* 4 */ || cheats_enabled) {
+				// if shift is not released within the delay, the cutscene is skipped
+				Uint32 delay = 250;
+				key_states[SDL_SCANCODE_LSHIFT] = 0;
+				key_states[SDL_SCANCODE_RSHIFT] = 0;
+				SDL_TimerID timer;
+				timer = SDL_AddTimer(delay, temp_shift_release_callback, NULL);
+				if (timer == 0) {
+					sdlperror("SDL_AddTimer");
+					quit(1);
+				}
+				if (current_level == 14) {
+					next_level = 1;
+				} else {
+					if (current_level == 15 && cheats_enabled) {
+#ifdef USE_COPYPROT
+						if (enable_copyprot) {
+							next_level = custom->copyprot_level;
+							custom->copyprot_level = -1;
+						}
+#endif
+					} else {
+						next_level = current_level + 1;
+						if (!cheats_enabled && rem_min > custom->shift_L_reduced_minutes /* 15 */) {
+							rem_min = custom->shift_L_reduced_minutes; // 15
+							rem_tick = custom->shift_L_reduced_ticks; // 719
+						}
+					}
+				}
+				stop_sounds();
+			}
+		break;
+
+
+
+/home/osboxes/PoP/Prince Of Persia/doc/mod.ini:
+  165  
+  166  ; The potions level will appear before this level. Set to -1 to disable. (default = 2)
+  167: ;copyprot_level = 2
+  168  
+  169  ; Set up edges of the level.
+
+/home/osboxes/PoP/Prince Of Persia/prince:
+    <binary>
+
+/home/osboxes/PoP/Prince Of Persia/SDLPoP.ini:
+  256  
+  257  ; The potions level will appear before this level. Set to 'never' to disable. (default = 2)
+  258: copyprot_level = 2
+  259  
+  260  ; Set up edges of the level.
+  
+ 
+ #ifdef USE_COPYPROT
+	if (enable_copyprot && level_number == custom->copyprot_level) {
+		level_number = 15;
+	}
+	
+
+
+  
+ 

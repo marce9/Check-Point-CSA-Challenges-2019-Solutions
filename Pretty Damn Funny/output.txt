@@ -1,0 +1,260 @@
+obj: 1
+BT/F1 20 Tf1 g[(read between)] TJ%I[( the lines)] TJET
+
+
+obj: 2
+BT/F1 20 Tf1 g[(read between)] TJ%1[( the lines)] TJET
+
+
+obj: 3
+BT/F1 20 Tf1 g[(read between)] TJ%O[( the lines)] TJET
+
+
+obj: 4
+BT/F1 20 Tf1 g[(read between)] TJ%m[( the lines)] TJET
+
+
+obj: 5
+BT/F1 20 Tf1 g[(read between)] TJ%h[( the lines)] TJET
+
+
+obj: 6
+BT/F1 20 Tf1 g[(read between)] TJ%Q[( the lines)] TJET
+
+
+obj: 7
+BT/F1 20 Tf1 g[(read between)] TJ%s[( the lines)] TJET
+
+
+obj: 8
+BT/F1 20 Tf1 g[(read between)] TJ%g[( the lines)] TJET
+
+
+obj: 9
+BT/F1 20 Tf1 g[(read between)] TJ%a[( the lines)] TJET
+
+
+obj: 10
+BT/F1 20 Tf1 g[(read between)] TJ%l[( the lines)] TJET
+
+
+obj: 11
+BT/F1 20 Tf1 g[(read between)] TJ%p[( the lines)] TJET
+
+
+obj: 12
+BT/F1 20 Tf1 g[(read between)] TJ%D[( the lines)] TJET
+
+
+obj: 13
+BT/F1 20 Tf1 g[(read between)] TJ%}[( the lines)] TJET
+
+
+obj: 14
+BT/F1 20 Tf1 g[(read between)] TJ%v[( the lines)] TJET
+
+
+obj: 15
+BT/F1 20 Tf1 g[(read between)] TJ%8[( the lines)] TJET
+
+
+obj: 16
+BT/F1 20 Tf1 g[(read between)] TJ%W[( the lines)] TJET
+
+
+obj: 17
+BT/F1 20 Tf1 g[(read between)] TJ%3[( the lines)] TJET
+
+
+obj: 18
+BT/F1 20 Tf1 g[(read between)] TJ%G[( the lines)] TJET
+
+
+obj: 19
+BT/F1 20 Tf1 g[(read between)] TJ%N[( the lines)] TJET
+
+
+obj: 20
+BT/F1 20 Tf1 g[(read between)] TJ%C[( the lines)] TJET
+
+
+obj: 21
+BT/F1 20 Tf1 g[(read between)] TJ%7[( the lines)] TJET
+
+
+obj: 22
+BT/F1 20 Tf1 g[(read between)] TJ%Z[( the lines)] TJET
+
+
+obj: 23
+BT/F1 20 Tf1 g[(read between)] TJ%H[( the lines)] TJET
+
+
+obj: 24
+BT/F1 20 Tf1 g[(read between)] TJ%b[( the lines)] TJET
+
+
+obj: 25
+BT/F1 20 Tf1 g[(read between)] TJ%T[( the lines)] TJET
+
+
+obj: 26
+BT/F1 20 Tf1 g[(read between)] TJ%U[( the lines)] TJET
+
+
+obj: 27
+BT/F1 20 Tf1 g[(read between)] TJ%Y[( the lines)] TJET
+
+
+obj: 28
+BT/F1 20 Tf1 g[(read between)] TJ%K[( the lines)] TJET
+
+
+obj: 29
+BT/F1 20 Tf1 g[(read between)] TJ%t[( the lines)] TJET
+
+
+obj: 30
+BT/F1 20 Tf1 g[(read between)] TJ%5[( the lines)] TJET
+
+
+obj: 31
+BT/F1 20 Tf1 g[(read between)] TJ%n[( the lines)] TJET
+
+
+obj: 32
+BT/F1 20 Tf1 g[(read between)] TJ%9[( the lines)] TJET
+
+
+obj: 33
+BT/F1 20 Tf1 g[(read between)] TJ%0[( the lines)] TJET
+
+
+obj: 34
+BT/F1 20 Tf1 g[(read between)] TJ%y[( the lines)] TJET
+
+
+obj: 35
+BT/F1 20 Tf1 g[(read between)] TJ%_[( the lines)] TJET
+
+
+obj: 36
+BT/F1 20 Tf1 g[(read between)] TJ%d[( the lines)] TJET
+
+
+obj: 37
+BT/F1 20 Tf1 g[(read between)] TJ%E[( the lines)] TJET
+
+
+obj: 38
+BT/F1 20 Tf1 g[(read between)] TJ%z[( the lines)] TJET
+
+
+obj: 39
+BT/F1 20 Tf1 g[(read between)] TJ%F[( the lines)] TJET
+
+
+obj: 40
+BT/F1 20 Tf1 g[(read between)] TJ%k[( the lines)] TJET
+
+
+obj: 41
+BT/F1 20 Tf1 g[(read between)] TJ%4[( the lines)] TJET
+
+
+obj: 42
+BT/F1 20 Tf1 g[(read between)] TJ%e[( the lines)] TJET
+
+
+obj: 43
+BT/F1 20 Tf1 g[(read between)] TJ%i[( the lines)] TJET
+
+
+obj: 44
+BT/F1 20 Tf1 g[(read between)] TJ%P[( the lines)] TJET
+
+
+obj: 45
+BT/F1 20 Tf1 g[(read between)] TJ%L[( the lines)] TJET
+
+
+obj: 46
+BT/F1 20 Tf1 g[(read between)] TJ%{[( the lines)] TJET
+
+
+obj: 47
+BT/F1 20 Tf1 g[(read between)] TJ%o[( the lines)] TJET
+
+
+obj: 48
+BT/F1 20 Tf1 g[(read between)] TJ%A[( the lines)] TJET
+
+
+obj: 49
+BT/F1 20 Tf1 g[(read between)] TJ%J[( the lines)] TJET
+
+
+obj: 50
+BT/F1 20 Tf1 g[(read between)] TJ%u[( the lines)] TJET
+
+
+obj: 51
+BT/F1 20 Tf1 g[(read between)] TJ%6[( the lines)] TJET
+
+
+obj: 52
+BT/F1 20 Tf1 g[(read between)] TJ%f[( the lines)] TJET
+
+
+obj: 53
+BT/F1 20 Tf1 g[(read between)] TJ%M[( the lines)] TJET
+
+
+obj: 54
+BT/F1 20 Tf1 g[(read between)] TJ%j[( the lines)] TJET
+
+
+obj: 55
+BT/F1 20 Tf1 g[(read between)] TJ%r[( the lines)] TJET
+
+
+obj: 56
+BT/F1 20 Tf1 g[(read between)] TJ%c[( the lines)] TJET
+
+
+obj: 57
+BT/F1 20 Tf1 g[(read between)] TJ%2[( the lines)] TJET
+
+
+obj: 58
+BT/F1 20 Tf1 g[(read between)] TJ%w[( the lines)] TJET
+
+
+obj: 59
+BT/F1 20 Tf1 g[(read between)] TJ%x[( the lines)] TJET
+
+
+obj: 60
+BT/F1 20 Tf1 g[(read between)] TJ%S[( the lines)] TJET
+
+
+obj: 61
+BT/F1 20 Tf1 g[(read between)] TJ%R[( the lines)] TJET
+
+
+obj: 62
+BT/F1 20 Tf1 g[(read between)] TJ%q[( the lines)] TJET
+
+
+obj: 63
+BT/F1 20 Tf1 g[(read between)] TJ%B[( the lines)] TJET
+
+
+obj: 64
+BT/F1 20 Tf1 g[(read between)] TJ%X[( the lines)] TJET
+
+
+obj: 65
+BT/F1 20 Tf1 g[(read between)] TJ%V[( the lines)] TJET
+
+
